@@ -19,6 +19,10 @@ public class Address {
 	public void viewAddress() {
 		System.out.println("houseNo= " + houseNo + ", \nstreetName= " + streetName + ", \nlandmark= " + landmark + ", \ncity= "
 				+ city + ", \npincode =" + pincode);
+		
+		System.out.println("houseNo= " + houseNo + ", \nstreetName= " + streetName + ", \nlandmark= " + landmark + ", \ncity= "
+				+ city + ", \npincode =" + pincode);
 	}
 		
+	
 }
