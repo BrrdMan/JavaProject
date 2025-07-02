@@ -1,0 +1,12 @@
+A mobile has a battery.
+
+Every battery has a capacity, upperlimit and lowerlimit. The battery has a functionality charging and 
+discharging, charging will increase the capacity and discharging will reduce the charge capacity in the 
+battery.
+
+The mobile has functionalities like call, chat, playvideo, playgames and mobileCharging. The functionality  
+call, chat, playvideo, playgames, consume battery charge and whereas mobileCharging increase the battery  
+charge.
+
+Note: Battery charge cannot increase beyond upperlimit
+	  Battery charge cannot decrease below lowerlimit
